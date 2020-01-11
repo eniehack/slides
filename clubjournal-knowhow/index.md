@@ -28,11 +28,6 @@ speakerdeckにうpしました
 
 
 
-----
-
-# 部誌(v2019.0.1)リンク
-![](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=https%3A%2F%2Fnitgc-densan-club.gitlab.io%2F2019-club-journal)
-https://nitgc-densan-club.gitlab.io/2019-club-journal
 
 ----
 
@@ -52,7 +47,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 
 * 今回から$\LaTeX$を採用した
     * ノウハウが蓄積されていない
-* 技術が伝承されるように
+    * 技術が伝承されるように
 * みんなに技術同人誌書いてほしい
     * 楽しい
 
@@ -72,6 +67,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 * Gitホスティングサービス
 * オープンソース:tada:
 * Ruby製
+* TODO: Gitの説明？
 
 ----
 
@@ -79,7 +75,8 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 
 * 組版システム
 * 豊富な拡張機能
-* 学会論文などでデファクトスタンダード
+* ネット上に大量の知見
+* 学会などでは標準
 * 今回はpLaTeX-ngを使用
 
 ----
@@ -99,6 +96,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 ----
 
 * 豊富なマクロ（拡張機能）
+    * $\LaTeX$でできることを書く
 * 部内で習得者が多い
    * E科では2年で
    * J科では3年で
@@ -142,7 +140,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
     * 同一ブランチでやっていいかも
 * 校正
 * MR
-* masterにマージ :tada:
+* 著者がmasterにマージ :tada:
 
 ----
 
@@ -204,7 +202,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 ## Markdown
 
 * 文書書くといったらこれ感はある
-* pandocを用いれば可能
+* pandocを用いれば可能($\LaTeX$
 * 処理系によって方言が存在
     * CommonMark
         * 浸透してない
@@ -232,7 +230,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
     * DocBook
     * PDF
     * epub
-    * TeX
+    * $\LaTeX$
 
 ----
 
@@ -249,7 +247,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 
 ----
 
-## SATiSFi
+## SATySFi
 
 * 国産の組版ソフトウェア
 * $\LaTeX$の問題点、エラーの曖昧さの解決を試みる
@@ -266,7 +264,7 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 * 様々なフォーマットに変換可能
     * HTML
     * epub
-    * PDF
+    * PDF($\LaTeX$を介して
 * 同人誌での採用事例が多い
     * $\LaTeX$よりかは少ない
 
@@ -280,6 +278,13 @@ https://nitgc-densan-club.gitlab.io/2019-club-journal
 * Adobe InDesign
 
 ----
+
+# 部誌(v2019.0.1)リンク
+![](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=https%3A%2F%2Fnitgc-densan-club.gitlab.io%2F2019-club-journal)
+https://nitgc-densan-club.gitlab.io/2019-club-journal
+
+----
+
 
 いつか群馬高専生が
 技術合同誌を技術書典、技術書博覧会に出す日を夢見て……
